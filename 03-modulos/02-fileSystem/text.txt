@@ -1,0 +1,3 @@
+Este es un archivo escrito utilizando la el modulo core de Node "FileSystem".
+
+Fecha: 2024-02-12
